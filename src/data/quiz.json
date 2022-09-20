@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "question": "What is the capital of Croatia",
+            "choices": ["Split", "Osijek", "Zagreb", "Rijeka"],
+            "answer": "Zagreb"
+        },
+        {
+            "question": "What is the capital of Germany",
+            "choices": ["Wolfsburg", "Hamburg", "Muchen", "Berlin"],
+            "answer": "Berlin"
+        },
+        {
+            "question": "What is the capital of France",
+            "choices": ["Paris", "Marseille", "Lisieux", "Lyon"],
+            "answer": "Paris"
+        },
+        {
+            "question": "What is the capital of England",
+            "choices": ["Liverpool", "York", "London", "Manchester"],
+            "answer": "London"
+        },
+        {
+            "question": "What is the capital of Italia",
+            "choices": ["Venice", "Roma", "Milan", "Florence"],
+            "answer": "Roma"
+        },
+        {
+            "question": "What is the capital of Brazil",
+            "choices": ["Sao Paulo", "Rio de Janeiro", "Fortaleza", "Brasilia"],
+            "answer": "Brasilia"
+        }
+    ]
+
+}
